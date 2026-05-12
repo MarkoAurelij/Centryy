@@ -1,0 +1,12 @@
+{
+"KPackageStructure": "KWin/Script",
+"KPlugin": {
+	"Name": "Centryy",
+	"Id": "tilingmousewarp",
+	"ServiceTypes": ["KWin/Script"],
+	"Version": "1.0",
+	"Author": "MarkoAurelij",
+	"License": "MIT"
+}
+}
+
